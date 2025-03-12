@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-03-12T04:38:33.567143",
+  "timestamp": "2025-03-12T12:10:02.153796",
   "pokemon_data": {
-    "name": "Zekrom",
-    "name_ja": "\u30bc\u30af\u30ed\u30e0",
-    "types": "Dragon, Electric",
-    "species": "Deep Black Pok\u00e9mon",
-    "height": "2.9 m",
-    "weight": "345.0 kg",
-    "abilities": "Teravolt",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png"
+    "name": "Terapagos",
+    "name_ja": "\u30c6\u30e9\u30d1\u30b4\u30b9",
+    "types": "Normal",
+    "species": "Tera Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "6.5 kg",
+    "abilities": "Tera-Shift",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png"
   }
 }
