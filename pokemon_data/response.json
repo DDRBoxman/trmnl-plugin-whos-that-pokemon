@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-03-16T12:08:41.767698",
+  "timestamp": "2025-03-17T12:10:18.401531",
   "pokemon_data": {
-    "name": "Avalugg",
-    "name_ja": "\u30af\u30ec\u30d9\u30fc\u30b9",
-    "types": "Ice",
-    "species": "Iceberg Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "505.0 kg",
-    "abilities": "Own-Tempo, Ice-Body, Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png"
+    "name": "Toxapex",
+    "name_ja": "\u30c9\u30d2\u30c9\u30a4\u30c7",
+    "types": "Poison, Water",
+    "species": "Brutal Star Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "14.5 kg",
+    "abilities": "Merciless, Limber, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png"
   }
 }
