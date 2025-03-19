@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-03-18T12:10:19.404915",
+  "timestamp": "2025-03-19T12:10:06.991363",
   "pokemon_data": {
-    "name": "Woobat",
-    "name_ja": "\u30b3\u30ed\u30e2\u30ea",
-    "types": "Psychic, Flying",
-    "species": "Bat Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "2.1 kg",
-    "abilities": "Unaware, Klutz, Simple",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png"
+    "name": "Maschiff",
+    "name_ja": "\u30aa\u30e9\u30c1\u30d5",
+    "types": "Dark",
+    "species": "Rascal Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "16.0 kg",
+    "abilities": "Intimidate, Run-Away, Stakeout",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png"
   }
 }
