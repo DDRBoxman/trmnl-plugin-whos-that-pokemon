@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-03-19T12:10:06.991363",
+  "timestamp": "2025-03-20T12:10:21.379542",
   "pokemon_data": {
-    "name": "Maschiff",
-    "name_ja": "\u30aa\u30e9\u30c1\u30d5",
-    "types": "Dark",
-    "species": "Rascal Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "16.0 kg",
-    "abilities": "Intimidate, Run-Away, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png"
+    "name": "Bewear",
+    "name_ja": "\u30ad\u30c6\u30eb\u30b0\u30de",
+    "types": "Normal, Fighting",
+    "species": "Strong Arm Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "135.0 kg",
+    "abilities": "Fluffy, Klutz, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png"
   }
 }
